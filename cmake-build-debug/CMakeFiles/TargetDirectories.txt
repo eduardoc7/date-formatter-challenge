@@ -1,6 +1,0 @@
-/home/du/CLionProjects/date-formatter-challenge/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/du/CLionProjects/date-formatter-challenge/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/du/CLionProjects/date-formatter-challenge/cmake-build-debug/CMakeFiles/date_formatter_challenge.dir
-/home/du/CLionProjects/date-formatter-challenge/cmake-build-debug/tests/CMakeFiles/rebuild_cache.dir
-/home/du/CLionProjects/date-formatter-challenge/cmake-build-debug/tests/CMakeFiles/edit_cache.dir
-/home/du/CLionProjects/date-formatter-challenge/cmake-build-debug/tests/CMakeFiles/maintest_binary.dir

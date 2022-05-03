@@ -1,5 +1,0 @@
-if(EXISTS "/home/du/CLionProjects/date-formatter-challenge/cmake-build-debug/tests/maintest_binary[1]_tests.cmake")
-  include("/home/du/CLionProjects/date-formatter-challenge/cmake-build-debug/tests/maintest_binary[1]_tests.cmake")
-else()
-  add_test(maintest_binary_NOT_BUILT maintest_binary_NOT_BUILT)
-endif()
